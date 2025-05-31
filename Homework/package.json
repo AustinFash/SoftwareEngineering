@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "jspace": "^1.0.0",
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "jasmine-node": "^3.0.0",
+    "request": "^2.88.2",
+    "supertest": "^6.3.4"
+  }
+}

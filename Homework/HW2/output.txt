@@ -1,0 +1,27 @@
+[
+  {
+    "IDENTIFIER": "Record4",
+    "TIME": "2023-01-13T08",
+    "WEIGHT": "70",
+    "UNITS": "lbs"
+  },
+  {
+    "IDENTIFIER": "Record2",
+    "TIME": "2023-01-14T09",
+    "WEIGHT": "60",
+    "UNITS": "lbs",
+    "COLOR": "Red"
+  },
+  {
+    "IDENTIFIER": "Record1",
+    "TIME": "2023-01-15T10",
+    "WEIGHT": "50",
+    "UNITS": "kg",
+    "COLOR": "Blue"
+  },
+  {
+    "IDENTIFIER": "Record3",
+    "TIME": "2023-01-16T11",
+    "COLOR": "Green"
+  }
+]
